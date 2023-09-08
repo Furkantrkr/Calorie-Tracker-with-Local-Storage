@@ -1,6 +1,7 @@
 # Calorie Tracker (with Local Storage)
 
 This project is a web application that helps you track your daily calorie intake. In this project, you can record meals and workouts, calculate calories, set daily limits, and more.
+You can now see the project live! <a href="https://prismatic-figolla-cbd1cb.netlify.app" target = "_blank" >Click here to explore the project.</a>
 
 ## About the Project
 
